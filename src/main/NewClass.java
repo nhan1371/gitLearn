@@ -11,5 +11,6 @@ package main;
 public class NewClass {
     public void test(){
         System.out.println("");
+        System.out.println("");
     }
 }
