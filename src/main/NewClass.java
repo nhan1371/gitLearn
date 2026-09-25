@@ -9,5 +9,7 @@ package main;
  * @author DELL
  */
 public class NewClass {
-    
+    public void test(){
+        
+    }
 }
